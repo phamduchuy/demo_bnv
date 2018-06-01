@@ -1,6 +1,14 @@
 [
     {
-        "merged": "/Users/macbook/Downloads/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/Users/macbook/Downloads/android-signaturepad-master/SignaturePad-Example/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_asset_expand.png",
+        "source": "D:\\github\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_asset_expand.png"
+    },
+    {
+        "merged": "D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_asset_edit.png",
+        "source": "D:\\github\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_asset_edit.png"
     }
 ]

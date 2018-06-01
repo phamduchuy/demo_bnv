@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\887ca5d9f0b95dd1c7421c8b8e47e32777a14fd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_d0fadc8d05f8feb7c1e88ebeca5d0d0f40af8c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\22d4796c6f72602649a487d67ae1180cded4787d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_371275f85de02c6636e1ee524a016bab4df1308d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\2aa9cd9c7105a0f0a2453d61000c8e4b3d40a094\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_1d6b194af343d7b34df1c36d6495005072bf83bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\ccbfa3a320c6281ffaf1558d9bcf6e49bfb6b526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_ae00fa6d3ffd067a06f8d4db22538878e0ce88e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\a555055f4b2256be0fd6a289c3025fee2c78ec07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_13fdfbfd74f55b75cb62f5880c043b5d13971a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\49b17c84724a8ad5984d9a53c991521f1a7e78fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_69ab061db387574735608b82d723d6b504d8e791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo_bnv\signature-pad\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="baf2a5c0a19f66749ae1cd79d29c2b53193acedb">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_9d02d55179402eb9a1b5ed556d8d0eef8add7547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\80ef24f9c0945e18bd887f9eb115297d0a514ac3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_22c509b7d37c91ba5569967f4dbfd31c56ee1587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\7e3de4d20f20844cce95fc942aa414f75a931558\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_7fc500863589706b4834cec0e3174ff10fcc4146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\49839909966af519217c13e1ddd0ec650cc83ccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_4414afea6ad1981000265082d648a97d198c6bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_f97be0b6bd46a008b2ba17674d0e0408ecec4043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\ab9c759fdb9aafb7d14571c6e57af6f17b58a945\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_cb25136dc8d957d70456f936aaacb19f397dfe44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\bd54116a93aec486a055d380b13a3a19d59027fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_c604f1156e477f97d570419335fb393a898369c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\675d339e2fdf24d264d7581ef3451ed2bbf260a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_b5961d0e3869fb1f5bbdda076bd4fad988766bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.3.3\eb3399988a52099b0127e27fb5bed666eca86ace\baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\baseLibrary-2.3.3_6e3772d7ce3747ec54f53e9b86741b7dfa323f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\98cc5e9bef3e42c480a02278c917782d723055f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_b750ae4ef0e4ac4dc262df31a55f3e59b19ef512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_27f4d8a22107d195bf025be1b654e5971ff4aea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\0515bf325220a54729c1dd6f2d92d0c3212ecece\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f97957ca13c4eda0e0ec407224f3d0d8d33ce09">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_2fe4719abc2223e127ff53003979ebd69ba68774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\96aa146cf12e5d19f910853822e00e34ea6426d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_fcf4eef9a255c9daba4609fc210e8badef360d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\db94e4da4e313a99ae1c2a6de467f5c162b584c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_eac85b26e0000dd8c7578abea55303523b73e642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ducqu\.android\build-cache\64226ccca4c540161cc2f183cbbd5f4487942fd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\github\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_e2eb9752b08936368f4936e1dcb323824ff8d6ec.jar" />
+    </item>
+
+</items>
