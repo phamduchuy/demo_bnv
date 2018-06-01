@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbook/Downloads/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Downloads/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
