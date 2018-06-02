@@ -39,11 +39,19 @@
             android:text="next" />
 
         <Button
+            android:visibility="gone"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Choose"
             android:id="@+id/ChoosePictureButton"/>
+        <Button
+            android:visibility="gone"
+            android:id="@+id/pheduyet"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="phe duyet" />
     </LinearLayout>
 
 </LinearLayout>

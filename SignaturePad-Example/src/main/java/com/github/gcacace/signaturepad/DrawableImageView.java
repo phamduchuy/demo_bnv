@@ -48,7 +48,7 @@ public class DrawableImageView extends ImageView implements View.OnTouchListener
         canvas = new Canvas(alteredBitmap );
         paint = new Paint();
         paint.setColor(Color.RED);
-        paint.setStrokeWidth(6);
+        paint.setStrokeWidth(4);
         matrix = new Matrix();
         canvas.drawBitmap(bmp, matrix, paint);
 

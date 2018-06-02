@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="ND"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="5dp"
+            android:text="YK lãnh đạo bộ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtTrangThai"
+            android:padding="5dp"
+            android:text="Trạng thái : Chờ "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.github.gcacace.signaturepad.views.SignaturePad
+            android:background="#f1f1f1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="160dp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnXacthuc"
+        android:text="Xác thực phê duyệt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <View
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:background="#cccccc"
+        android:layout_width="match_parent"
+        android:layout_height="1px"/>
+</LinearLayout>

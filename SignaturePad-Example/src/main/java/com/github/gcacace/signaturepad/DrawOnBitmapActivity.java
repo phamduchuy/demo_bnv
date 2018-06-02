@@ -33,6 +33,7 @@ import it.gcacace.signaturepad.R;
 public class DrawOnBitmapActivity extends Activity implements View.OnClickListener {
     DrawableImageView choosenImageView;
     Button choosePicture;
+    Button pheduyet;
     //Button savePicture;
     Bitmap bmp;
     Bitmap alteredBitmap;
@@ -62,6 +63,7 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
 
         //choosenImageView = (DrawableImageView) this.findViewById(R.id.ChoosenImageView);
         choosePicture = (Button) this.findViewById(R.id.ChoosePictureButton);
+        pheduyet = (Button) this.findViewById(R.id.pheduyet);
         //savePicture = (Button) this.findViewById(R.id.SavePictureButton);
        // savePicture.setOnClickListener(this);
         choosePicture.setOnClickListener(this);
@@ -72,12 +74,19 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
         // Bind events.
         mButtonPrevious.setOnClickListener(this);
         mButtonNext.setOnClickListener(this);
-
+        pheduyet.setOnClickListener(this);
         mPageIndex = 0;
         // If there is a savedInstanceState (screen orientations, etc.), we restore the page index.
         if (null != savedInstanceState)
         {
             mPageIndex = savedInstanceState.getInt(STATE_CURRENT_PAGE_INDEX, 0);
+        }
+
+        try {
+            openRenderer(getApplicationContext(),"1.pdf");
+            showPage(mPageIndex);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 
@@ -108,6 +117,12 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
                 showPage(mCurrentPage.getIndex() + 1);
                 break;
             }
+            case R.id.pheduyet :
+                {
+                    GlobalVar.getInstance().setShowPheDuyet(true);
+                    finish();
+                    break;
+                }
         }
         /*else if (v == savePicture)
         {
@@ -171,8 +186,8 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
                         }
                     }
                 }
-                openRenderer(getApplicationContext(),"sample.pdf",tempFile);
-                showPage(mPageIndex);
+              //  openRenderer(getApplicationContext(),"sample.pdf",tempFile);
+             //   showPage(mPageIndex);
             }
             catch (Exception e) {
                 Log.v("ERROR", e.toString());
@@ -239,9 +254,9 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
      * Sets up a {@link android.graphics.pdf.PdfRenderer} and related resources.
      */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    private void openRenderer(Context context,String FILENAME,File file) throws IOException {
+    private void openRenderer(Context context,String FILENAME) throws IOException {
         // In this sample, we read a PDF from the assets directory.
-        /*File file = new File(context.getCacheDir(), FILENAME);
+        File file = new File(context.getCacheDir(), FILENAME);
         if (!file.exists()) {
             // Since PdfRenderer cannot handle the compressed asset file directly, we copy it into
             // the cache directory.
@@ -254,7 +269,7 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
             }
             asset.close();
             output.close();
-        } */
+        }
         mFileDescriptor = ParcelFileDescriptor.open(file, ParcelFileDescriptor.MODE_READ_ONLY);
         // This is the PdfRenderer we use to render the PDF.
         if (mFileDescriptor != null) {
@@ -339,6 +354,15 @@ public class DrawOnBitmapActivity extends Activity implements View.OnClickListen
         }
         mButtonPrevious.setEnabled(0 != index);
         mButtonNext.setEnabled(index + 1 < pageCount);
+        if (index == pageCount -1)
+        {
+            pheduyet.setVisibility(View.VISIBLE);
+
+        }
+        else {
+            pheduyet.setVisibility(View.GONE);
+        }
+
         setTitle(getString(R.string.app_name_with_index, index + 1, pageCount));
     }
 

@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.github.gcacace.signaturepad.DrawOnBitmapActivity;
 import com.github.gcacace.signaturepad.expandableRecyclerView.incomingRequest.editDoc.EditDocumentActivity;
 import com.thoughtbot.expandablerecyclerview.viewholders.ChildViewHolder;
 
@@ -61,7 +62,7 @@ public class ContentViewHolder extends ChildViewHolder
             public void onClick(View v) {
                 if (contentModel.getStatus().equals("1"))
                 {
-                    context.startActivity(new Intent(context, EditDocumentActivity.class));
+                    context.startActivity(new Intent(context, DrawOnBitmapActivity.class));
                 }
             }
         });
