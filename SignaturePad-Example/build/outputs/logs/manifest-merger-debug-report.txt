@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:3:5-38
 	android:versionName
@@ -20,7 +20,7 @@ ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/mai
 	android:name
 		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:9:5-28:19
+ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:9:5-30:19
 MERGED from [com.github.gcacace:signature-pad:1.2.1] /Users/macbook/Documents/GitHub/demo_bnv/signature-pad/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/macbook/.android/build-cache/7bc3c4f21e06ad43f05c48bf8d8071f2eca95b45/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/AndroidManifest.xml:29:5-20
@@ -66,14 +66,18 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:23:17-77
 	android:name
 		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:23:27-74
+activity#com.github.gcacace.signaturepad.expandableRecyclerView.KyDuyetFragment
+ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:27:9-107
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:27:19-104
 activity#com.github.gcacace.signaturepad.expandableRecyclerView.RequestActivity
-ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:26:9-107
+ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:28:9-107
 	android:name
-		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:26:19-104
+		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:28:19-104
 activity#com.github.gcacace.signaturepad.expandableRecyclerView.incomingRequest.editDoc.EditDocumentActivity
-ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:27:9-145
+ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:29:9-145
 	android:name
-		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:27:19-133
+		ADDED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml:29:19-133
 uses-sdk
 INJECTED from /Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.github.gcacace:signature-pad:1.2.1] /Users/macbook/Documents/GitHub/demo_bnv/signature-pad/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41

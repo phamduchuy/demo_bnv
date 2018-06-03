@@ -60,6 +60,10 @@
         "source": "/Users/macbook/Documents/GitHub/demo_bnv/C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/layout_phieu_duyet.xml",
+        "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml"
+    },
+    {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/notification_template_media_custom.xml"
     },

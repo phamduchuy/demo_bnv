@@ -27,10 +27,10 @@ public class RequestActivity extends AppCompatActivity
 
         adapter = new TabPagerAdapter(getSupportFragmentManager());
 
-        adapter.addFragment(new IncomingFragment(), "YK ĐẾN");
-        adapter.addFragment(new SendFragment(), "YK ĐI");
-        adapter.addFragment(new LuongDataFragment(), "XỬ LÝ");
-        adapter.addFragment(new KyDuyetFragment(), "Ký Duyệt");
+        adapter.addFragment(new IncomingFragment(), "Ý kiến đến");
+        adapter.addFragment(new SendFragment(), "Ý kiến ");
+        adapter.addFragment(new LuongDataFragment(), "Luồng xử lý");
+        adapter.addFragment(new PhieuDuyetFragment(), "Phiếu trình kí văn bản");
 
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);

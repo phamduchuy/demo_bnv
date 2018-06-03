@@ -6,54 +6,36 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1527912494620"
+    timestamp="1527995006327"
     token="-2792459674047100467"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="394" />
+        duration="36" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="39" />
+        duration="8" />
     <task
         name="verifier"
-        duration="12" />
+        duration="1" />
 
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1527905013960"
+        timestamp="1527993677335"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk"
@@ -62,39 +44,40 @@
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1527909902101"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1527912494620"
+        timestamp="1527994216533"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
@@ -104,15 +87,22 @@
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1527994522392"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1527995006327"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

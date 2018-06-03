@@ -32,6 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.github.gcacace.signaturepad.expandableRecyclerView.KyDuyetFragment" />
         <activity android:name="com.github.gcacace.signaturepad.expandableRecyclerView.RequestActivity" />
         <activity android:name="com.github.gcacace.signaturepad.expandableRecyclerView.incomingRequest.editDoc.EditDocumentActivity" />
 

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:background="#ffffff"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="                   Kính trình : Thứ trưởng Nguyễn Vắn A
+V/v trả lời văn bản sô 426/TTr—HCQG học viện HCQG ngày 3/4/2018 về mua sắm tài sản"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_linnerlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text="1.	Chuyên viên soạn thảo
+a.	Tóm tắt nội dung :
+Trả lời Văn bản sô 426/TTr-HCQG của Học Viện Hành chính Quốc gia 03/04/2018 về mua sắm tài sản . vụ kế hoạch – Tài chính soạn văn bản gửi HV Hành chính Quốc Gia
+Kí trình Thứ trưởng xem xét , ký văn bản
+b.	Hồ sơ kèm theo :
+-	Các tài liệu liên quan : Công văn số 426/TTr-HCQG
+HN ngày 10/04/2018
+
+Nguyễn Văn A
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:background="@drawable/bg_linnerlayout"
+                android:orientation="vertical"
+                android:layout_width="140dp"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text=" 6.Ý Kiến lãnh đạo Bộ
+Ngày  tháng  năm 2018
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                    <ImageView
+                        android:layout_marginLeft="5dp"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/chuky"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_linnerlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text="2.	Vụ trưởng vụ KHTC
+Hà Nội ngày 8/4/2018
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:background="@drawable/bg_linnerlayout"
+                android:orientation="vertical"
+                android:layout_width="140dp"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text=" 5.Ý Kiến lãnh Văn phòng
+Ngày  tháng  năm 2018
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/chuky"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_linnerlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text="3.Ý kiến các đơn vị liên quan
+
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnKy"
+                android:background="@drawable/bg_linnerlayout"
+                android:orientation="vertical"
+                android:layout_width="140dp"
+                android:layout_height="match_parent">
+                <TextView
+                    android:text="4. Chuyên viên giúp việc lãnh đạo bộ
+Ngày tháng năm 2018
+"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:visibility="gone"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
+                <Button
+                    android:id="@+id/btnKy"
+                    android:textColor="#ffffff"
+                    android:text="Ký và phê duyệt"
+                    android:background="@drawable/bg_img_ky"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
