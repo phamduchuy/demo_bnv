@@ -61,6 +61,15 @@ public class PhieuDuyetFragment  extends Fragment implements View.OnClickListene
         {
             btnKy6.setVisibility(View.VISIBLE);
         }
+
+        if(GlobalVar.getInstance().getBuoc()=="Buoc5")
+        {
+            imgChuKy6.setImageBitmap(GlobalVar.getInstance().getBitmap());
+            imgChuKy6.setVisibility(View.VISIBLE);
+            txtYkien6.setText(GlobalVar.getInstance().getTextYkien());
+            txtYkien6.setVisibility(View.VISIBLE);
+            btnKy6.setVisibility(View.GONE);
+        }
     }
 
     @Override
@@ -68,7 +77,14 @@ public class PhieuDuyetFragment  extends Fragment implements View.OnClickListene
     {
         if (view.getId() == R.id.btnKy5)
         {
+            GlobalVar.getInstance().setBuoc("Buoc4");
             startActivity(new Intent(getActivity(),KyDuyetFragment.class));
+        }
+        if (view.getId() == R.id.btnKy6)
+        {
+            GlobalVar.getInstance().setBuoc("Buoc5");
+            startActivity(new Intent(getActivity(),KyDuyetFragment.class));
+
         }
     }
 }

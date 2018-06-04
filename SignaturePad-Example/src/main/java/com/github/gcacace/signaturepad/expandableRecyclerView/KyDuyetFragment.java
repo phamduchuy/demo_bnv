@@ -120,7 +120,14 @@ public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickL
                             JSONObject jsonObject = new JSONObject();
                             try {
                                 jsonObject.put("imgdatasource", encoded);
-                                jsonObject.put("UserName", "Buoc5");
+                                if (GlobalVar.getInstance().getBuoc()=="Buoc4")
+                                {
+                                    jsonObject.put("UserName", "Buoc4");
+                                }
+                                else
+                                    {
+                                        jsonObject.put("UserName", "Buoc5");
+                                    }
 
                             } catch (JSONException e) {
                                 e.printStackTrace();

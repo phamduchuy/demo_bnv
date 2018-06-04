@@ -12,6 +12,15 @@ public class GlobalVar {
     }
 
     private boolean showView6 = false;
+    private String buoc = "Buoc4";
+
+    public String getBuoc() {
+        return buoc;
+    }
+
+    public void setBuoc(String buoc) {
+        this.buoc = buoc;
+    }
 
     public boolean isShowView6() {
         return showView6;
