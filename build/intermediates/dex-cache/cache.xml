@@ -3,6 +3,7 @@
 
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="/Users/macbook/Documents/GitHub/demo_bnv/signature-pad/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +73,14 @@
         revision="25.0.3"
         sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
         <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/engine.io-client-0.6.2_c50a52f21460aaaf4c2c44107fb3c1b550af0cda.jar" />
+=======
+        jar="D:\github\sign\demo_bnv\signature-pad\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="baf2a5c0a19f66749ae1cd79d29c2b53193acedb">
+        <dex dex="D:\github\sign\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_a8bc9d4e1c278f890e119d963bfa2bb95a9aa834.jar" />
+>>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
     </item>
 
 </items>

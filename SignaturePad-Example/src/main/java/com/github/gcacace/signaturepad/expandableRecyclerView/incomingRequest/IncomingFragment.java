@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -50,19 +51,24 @@ public class IncomingFragment extends Fragment {
         }
 
         ExpandAdapter adapter  = new ExpandAdapter(getContext(), list);
+
         adapter.setOnGroupExpandCollapseListener(new GroupExpandCollapseListener() {
             @Override
             public void onGroupExpanded(ExpandableGroup group) {
-
+                Log.d("", "");
             }
 
             @Override
             public void onGroupCollapsed(ExpandableGroup group) {
-
+                Log.d("", "");
             }
         });
+
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(adapter);
+
+        int sizeOfChuaXacDinh = list.get(0).getItems().size();
+        adapter.clickFirst(sizeOfChuaXacDinh);
     }
 
     public List<TitleModel> getTitle()

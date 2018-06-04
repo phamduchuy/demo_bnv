@@ -50,4 +50,10 @@ public class ExpandAdapter extends ExpandableRecyclerViewAdapter<TitleViewHolder
     public void onBindGroupViewHolder(TitleViewHolder holder, int flatPosition, ExpandableGroup group) {
         holder.setTitleExpand(group);
     }
+
+    public void clickFirst(int size)
+    {
+        onGroupClick(0);
+        onGroupExpanded(1, size);
+    }
 }
