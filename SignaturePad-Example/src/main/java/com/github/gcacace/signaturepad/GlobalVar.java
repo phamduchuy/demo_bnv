@@ -43,6 +43,15 @@ public class GlobalVar {
     private int myVar = 0;
     private boolean isShowPheDuyet = false;
     private Bitmap bitmap;
+    private Bitmap bitmap5;
+
+    public Bitmap getBitmap5() {
+        return bitmap5;
+    }
+
+    public void setBitmap5(Bitmap bitmap5) {
+        this.bitmap5 = bitmap5;
+    }
 
     public Bitmap getBitmap() {
         return bitmap;

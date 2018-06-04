@@ -106,7 +106,15 @@ public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickL
                            // txtTrangthai.setText("Phê duyệt thành công");
                            // txtTrangthai.setTextColor(KyDuyetFragment.this.getResources().getColor(R.color.red));
                             GlobalVar.getInstance().setTextYkien(multiAutoCompleteTextView.getText().toString());
-                            GlobalVar.getInstance().setBitmap(signaturePad.getSignatureBitmap());
+                            if (GlobalVar.getInstance().getBuoc()=="Buoc4")
+                            {
+                                GlobalVar.getInstance().setBitmap(signaturePad.getSignatureBitmap());
+                            }
+                            else
+                            {
+                                GlobalVar.getInstance().setBitmap5(signaturePad.getSignatureBitmap());
+                            }
+
                             GlobalVar.getInstance().setShowView6(true);
                             finish();
                             btnOTP.setVisibility(View.GONE);
