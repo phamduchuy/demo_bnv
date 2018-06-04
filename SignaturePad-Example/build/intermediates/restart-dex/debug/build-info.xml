@@ -6,26 +6,23 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1528135668598"
+    timestamp="1528135744598"
     token="-2792459674047100467"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="91" />
+        duration="52" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="22" />
+        duration="4" />
     <task
         name="verifier"
-        duration="4" />
+        duration="1" />
 
-    <artifact
-        location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
@@ -84,19 +81,19 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1528135427192"
+        timestamp="1528135668598"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1528135668598"
+        timestamp="1528135744598"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />

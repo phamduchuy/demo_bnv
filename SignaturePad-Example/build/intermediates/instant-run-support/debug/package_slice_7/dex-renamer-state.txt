@@ -1,4 +1,4 @@
-#Tue Jun 05 01:07:49 ICT 2018
+#Tue Jun 05 01:09:05 ICT 2018
 base.0=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
 file.0=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
