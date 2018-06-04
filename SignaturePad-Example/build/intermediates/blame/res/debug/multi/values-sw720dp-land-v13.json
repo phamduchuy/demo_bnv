@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/res/values-sw720dp-land/dimens.xml",
+                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 58,
+                        "endOffset": 260
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -24,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +59,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

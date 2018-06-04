@@ -34,7 +34,6 @@ public class RequestActivity extends AppCompatActivity
 
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);
-
     }
 
     @Override
