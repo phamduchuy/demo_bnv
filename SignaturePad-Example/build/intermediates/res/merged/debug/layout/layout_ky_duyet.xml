@@ -7,25 +7,28 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        <TextView
-            android:text="ND"
-            android:padding="5dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+
         <TextView
             android:padding="5dp"
-            android:text="YK lãnh đạo bộ"
+            android:text="3.Ý kiến các đơn vị liên quan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
+
+        <MultiAutoCompleteTextView
+            android:id="@+id/txtYkien"
+            android:hint="Nội dung ý kiến"
+            android:layout_width="match_parent"
+            android:layout_height="80dp" />
+
         <TextView
-            android:id="@+id/txtTrangThai"
+            android:textStyle="bold"
             android:padding="5dp"
-            android:text="Trạng thái : Chờ "
+            android:text="Chữ Ký"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
-
         <com.github.gcacace.signaturepad.views.SignaturePad
+            android:id="@+id/sgn"
             android:background="#f1f1f1"
             android:layout_margin="10dp"
             android:layout_width="match_parent"

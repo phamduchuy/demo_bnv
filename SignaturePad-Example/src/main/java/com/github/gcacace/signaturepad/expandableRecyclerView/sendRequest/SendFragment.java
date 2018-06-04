@@ -10,6 +10,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.widget.ProgressBar;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,6 +34,17 @@ public class SendFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.send_fragment, container, false);
         recyclerView = (RecyclerView) view.findViewById(R.id.recyclerView);
+        final ProgressBar progressBar = (ProgressBar) view.findViewById(R.id.pb);
+        final WebView webView = (WebView) view.findViewById(R.id.webView);
+        webView.loadUrl("http://thunghiemphanmem.cf/OfficialDispatch?type=Outbox");
+        webView.setWebViewClient(new WebViewClient() {
+
+            public void onPageFinished(WebView view, String url)
+            {
+                progressBar.setVisibility(View.GONE);
+                webView.setVisibility(View.VISIBLE);
+            }
+        });
         return view;
     }
 

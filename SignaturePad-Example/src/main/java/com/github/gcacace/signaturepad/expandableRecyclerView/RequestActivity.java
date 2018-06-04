@@ -28,7 +28,7 @@ public class RequestActivity extends AppCompatActivity
         adapter = new TabPagerAdapter(getSupportFragmentManager());
 
         adapter.addFragment(new IncomingFragment(), "Ý kiến đến");
-        adapter.addFragment(new SendFragment(), "Ý kiến ");
+        adapter.addFragment(new SendFragment(), "Ý kiến đi");
         adapter.addFragment(new LuongDataFragment(), "Luồng xử lý");
         adapter.addFragment(new PhieuDuyetFragment(), "Phiếu trình kí văn bản");
 

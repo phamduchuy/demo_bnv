@@ -13,6 +13,8 @@ import android.view.ViewGroup;
 
 import com.github.gcacace.signaturepad.expandableRecyclerView.incomingRequest.model.ContentModel;
 import com.github.gcacace.signaturepad.expandableRecyclerView.incomingRequest.model.TitleModel;
+import com.thoughtbot.expandablerecyclerview.listeners.GroupExpandCollapseListener;
+import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup;
 
 import java.util.Arrays;
 import java.util.List;
@@ -48,7 +50,17 @@ public class IncomingFragment extends Fragment {
         }
 
         ExpandAdapter adapter  = new ExpandAdapter(getContext(), list);
+        adapter.setOnGroupExpandCollapseListener(new GroupExpandCollapseListener() {
+            @Override
+            public void onGroupExpanded(ExpandableGroup group) {
 
+            }
+
+            @Override
+            public void onGroupCollapsed(ExpandableGroup group) {
+
+            }
+        });
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(adapter);
     }

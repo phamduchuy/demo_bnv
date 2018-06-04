@@ -23,7 +23,7 @@ public class LuongDataFragment extends android.support.v4.app.Fragment
         View view = inflater.inflate(R.layout.luongdatafragment, container, false);
         final ProgressBar progressBar = (ProgressBar) view.findViewById(R.id.pb);
         final WebView webView = (WebView) view.findViewById(R.id.webView);
-        webView.loadUrl("https://medium.com/@cdmunoz/offline-first-android-app-with-mvvm-dagger2-rxjava-livedata-and-room-part-4-2b476142e769");
+        //webView.loadUrl("https://drive.google.com/open?id=1pVubcFHMj9fu0T7Q0rdP0fxw7iuQK5dd");
         webView.setWebViewClient(new WebViewClient() {
 
             public void onPageFinished(WebView view, String url)

@@ -9,17 +9,28 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
+
+import com.github.gcacace.signaturepad.GlobalVar;
+import com.github.gcacace.signaturepad.views.SignaturePad;
 
 import it.gcacace.signaturepad.R;
 
 public class PhieuDuyetFragment  extends Fragment implements View.OnClickListener{
 
+    ImageView imgChuKy;
+    Button btnKy;
+    TextView txtYkien;
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.layout_phieu_duyet, container, false);
-        Button btnKy = (Button) view.findViewById(R.id.btnKy);
+         btnKy = (Button) view.findViewById(R.id.btnKy);
+        imgChuKy = (ImageView) view.findViewById(R.id.imgChuky);
+        txtYkien = (TextView) view.findViewById(R.id.txtYkien);
+
         btnKy.setOnClickListener(this);
         return view;
     }
@@ -28,6 +39,17 @@ public class PhieuDuyetFragment  extends Fragment implements View.OnClickListene
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        if (GlobalVar.getInstance().getBitmap() != null)
+        {
+            imgChuKy.setImageBitmap(GlobalVar.getInstance().getBitmap());
+            txtYkien.setText(GlobalVar.getInstance().getTextYkien());
+            btnKy.setVisibility(View.GONE);
+        }
     }
 
     @Override

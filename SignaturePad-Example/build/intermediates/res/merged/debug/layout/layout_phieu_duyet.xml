@@ -109,6 +109,8 @@ Ngày  tháng  năm 2018
             android:layout_height="wrap_content">
 
             <LinearLayout
+
+                android:orientation="vertical"
                 android:layout_weight="1"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent">
@@ -116,6 +118,11 @@ Ngày  tháng  năm 2018
                     android:text="3.Ý kiến các đơn vị liên quan
 
 "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text=""
+                    android:id="@+id/txtYkien"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>
@@ -133,11 +140,12 @@ Ngày tháng năm 2018
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
                 <ImageView
-                    android:visibility="gone"
+                    android:id="@+id/imgChuky"
+                    android:visibility="visible"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center_vertical"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp" />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
                 <Button
                     android:id="@+id/btnKy"
                     android:textColor="#ffffff"

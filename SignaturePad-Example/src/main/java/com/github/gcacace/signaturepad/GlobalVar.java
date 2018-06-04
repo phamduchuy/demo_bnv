@@ -1,5 +1,7 @@
 package com.github.gcacace.signaturepad;
 
+import android.graphics.Bitmap;
+
 public class GlobalVar {
     public int getMyVar() {
         return myVar;
@@ -9,8 +11,27 @@ public class GlobalVar {
         this.myVar = myVar;
     }
 
+    private String textYkien ="";
+
+    public String getTextYkien() {
+        return textYkien;
+    }
+
+    public void setTextYkien(String textYkien) {
+        this.textYkien = textYkien;
+    }
+
     private int myVar = 0;
     private boolean isShowPheDuyet = false;
+    private Bitmap bitmap;
+
+    public Bitmap getBitmap() {
+        return bitmap;
+    }
+
+    public void setBitmap(Bitmap bitmap) {
+        this.bitmap = bitmap;
+    }
 
     public boolean isShowPheDuyet() {
         return isShowPheDuyet;

@@ -68,12 +68,12 @@
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\layout\\send_fragment.xml",
-        "source": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\layout\\send_fragment.xml"
-    },
-    {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/expand_title_item.xml",
         "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/res/layout/expand_title_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\layout\\send_fragment.xml",
+        "source": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\layout\\send_fragment.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
@@ -100,28 +100,28 @@
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\layout\\expand_content_title.xml",
-        "source": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\layout\\expand_content_title.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\layout\\expand_content_title.xml",
+        "source": "/Users/macbook/Documents/GitHub/demo_bnv/D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\layout\\expand_content_title.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/layout/design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/send_item.xml",
         "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/res/layout/send_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
