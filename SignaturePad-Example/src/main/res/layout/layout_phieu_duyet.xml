@@ -51,12 +51,29 @@ Ngày  tháng  năm 2018
 "
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
-                    <ImageView
-                        android:layout_marginLeft="5dp"
-                        android:layout_gravity="center_vertical"
-                        android:src="@drawable/chuky"
-                        android:layout_width="100dp"
-                        android:layout_height="100dp" />
+                <TextView
+                    android:text=""
+                    android:id="@+id/txtYkien6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:id="@+id/imgChuky6"
+                    android:visibility="gone"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:visibility="gone"
+                    android:id="@+id/btnKy6"
+                    android:textColor="#ffffff"
+                    android:text="Ký và phê duyệt"
+                    android:background="@drawable/bg_img_ky"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
             </LinearLayout>
 
         </LinearLayout>
@@ -69,6 +86,7 @@ Ngày  tháng  năm 2018
             android:layout_height="wrap_content">
 
             <LinearLayout
+                android:orientation="vertical"
                 android:layout_weight="1"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent">
@@ -78,6 +96,12 @@ Hà Nội ngày 8/4/2018
 "
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+                <ImageView
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/chuky"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
             </LinearLayout>
 
             <LinearLayout
@@ -91,12 +115,27 @@ Ngày  tháng  năm 2018
 "
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+                <TextView
+                    android:text=""
+                    android:id="@+id/txtYkien5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
                 <ImageView
+                    android:id="@+id/imgChuky5"
+                    android:visibility="visible"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center_vertical"
-                    android:src="@drawable/chuky"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp" />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <Button
+                    android:id="@+id/btnKy5"
+                    android:textColor="#ffffff"
+                    android:text="Ký và phê duyệt"
+                    android:background="@drawable/bg_img_ky"
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
             </LinearLayout>
 
         </LinearLayout>
@@ -120,11 +159,13 @@ Ngày  tháng  năm 2018
 "
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
-                <TextView
-                    android:text=""
-                    android:id="@+id/txtYkien"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_marginLeft="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/chuky"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
             </LinearLayout>
 
             <LinearLayout
@@ -140,21 +181,12 @@ Ngày tháng năm 2018
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
                 <ImageView
-                    android:id="@+id/imgChuky"
-                    android:visibility="visible"
                     android:layout_marginLeft="5dp"
                     android:layout_gravity="center_vertical"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
-                <Button
-                    android:id="@+id/btnKy"
-                    android:textColor="#ffffff"
-                    android:text="Ký và phê duyệt"
-                    android:background="@drawable/bg_img_ky"
-                    android:layout_marginLeft="5dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_width="match_parent"
-                    android:layout_height="50dp" />
+                    android:src="@drawable/chuky"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
+
             </LinearLayout>
 
         </LinearLayout>

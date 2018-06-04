@@ -20,18 +20,24 @@ import it.gcacace.signaturepad.R;
 
 public class PhieuDuyetFragment  extends Fragment implements View.OnClickListener{
 
-    ImageView imgChuKy;
-    Button btnKy;
-    TextView txtYkien;
+    ImageView imgChuKy5,imgChuKy6;
+    Button btnKy5,btnKy6;
+    TextView txtYkien5,txtYkien6;
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.layout_phieu_duyet, container, false);
-         btnKy = (Button) view.findViewById(R.id.btnKy);
-        imgChuKy = (ImageView) view.findViewById(R.id.imgChuky);
-        txtYkien = (TextView) view.findViewById(R.id.txtYkien);
+         btnKy5 = (Button) view.findViewById(R.id.btnKy5);
+        imgChuKy5 = (ImageView) view.findViewById(R.id.imgChuky5);
+        txtYkien5 = (TextView) view.findViewById(R.id.txtYkien5);
 
-        btnKy.setOnClickListener(this);
+        btnKy5.setOnClickListener(this);
+
+        btnKy6 = (Button) view.findViewById(R.id.btnKy6);
+        imgChuKy6 = (ImageView) view.findViewById(R.id.imgChuky6);
+        txtYkien6 = (TextView) view.findViewById(R.id.txtYkien6);
+
+        btnKy6.setOnClickListener(this);
         return view;
     }
 
@@ -46,16 +52,21 @@ public class PhieuDuyetFragment  extends Fragment implements View.OnClickListene
         super.onResume();
         if (GlobalVar.getInstance().getBitmap() != null)
         {
-            imgChuKy.setImageBitmap(GlobalVar.getInstance().getBitmap());
-            txtYkien.setText(GlobalVar.getInstance().getTextYkien());
-            btnKy.setVisibility(View.GONE);
+            imgChuKy5.setImageBitmap(GlobalVar.getInstance().getBitmap());
+            txtYkien5.setText(GlobalVar.getInstance().getTextYkien());
+            btnKy5.setVisibility(View.GONE);
+        }
+
+        if (GlobalVar.getInstance().isShowView6())
+        {
+            btnKy6.setVisibility(View.VISIBLE);
         }
     }
 
     @Override
     public void onClick(View view)
     {
-        if (view.getId() == R.id.btnKy)
+        if (view.getId() == R.id.btnKy5)
         {
             startActivity(new Intent(getActivity(),KyDuyetFragment.class));
         }

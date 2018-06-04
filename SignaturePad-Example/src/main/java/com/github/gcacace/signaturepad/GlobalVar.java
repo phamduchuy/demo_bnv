@@ -11,6 +11,16 @@ public class GlobalVar {
         this.myVar = myVar;
     }
 
+    private boolean showView6 = false;
+
+    public boolean isShowView6() {
+        return showView6;
+    }
+
+    public void setShowView6(boolean showView6) {
+        this.showView6 = showView6;
+    }
+
     private String textYkien ="";
 
     public String getTextYkien() {

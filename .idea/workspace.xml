@@ -6,29 +6,179 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0d5ca1-485d-4f45-9e33-83dac247aaf5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_5_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_ws_2_5_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_6_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_socket_engine_io_client_0_6_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_socket_socket_io_client_0_6_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppContext.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppSocketListener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketEventConstants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketIOService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketListener.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/SignaturePad-Example.iml" afterPath="$PROJECT_DIR$/SignaturePad-Example/SignaturePad-Example.iml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build.gradle" afterPath="$PROJECT_DIR$/SignaturePad-Example/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/buildConfig/androidTest/debug/it/gcacace/signaturepad/test/BuildConfig.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/android/support/design/R.java" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/com/thoughtbot/expandablerecyclerview/R.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/com/thoughtbot/expandablerecyclerview/R.java" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/it/gcacace/signaturepad/R.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/generated/source/r/debug/it/gcacace/signaturepad/R.java" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-af.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-af.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-am.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ar.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-be-rBY.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-be-rBY.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bg.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ca.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-cs.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-da.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-de.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-el.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rAU.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-en-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-es.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-et-rEE.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-eu-rES.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fa.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-fr.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-gl-rES.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hr.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hu.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-in.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-is-rIS.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-it.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-iw.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ja.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-km-rKH.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ko.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-land.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lt.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-lv.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-my-rMM.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-nb.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-night-v8.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-night-v8.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-nl.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pl.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-port.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-pt.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ro.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ru.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-si-rLK.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sk.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sl.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sr.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sv.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-te-rIN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-th.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-tl.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-tr.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-uk.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v12.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v12.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v13.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v13.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v16.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v16.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v18.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v18.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v22.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v22.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v23.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v23.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v24.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v24.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v25.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-v25.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-vi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values-zu.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/anim-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/anim-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/anim.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/animator-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/animator-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color-v11.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color-v11.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color-v23.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/color.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-anydpi-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-anydpi-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldpi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-v21.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-v23.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-v23.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-sw600dp-v13.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-sw600dp-v13.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v11.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v11.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v16.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v16.json" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v21.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout-v21.json" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/blame/res/debug/single/layout.json" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/GlobalVar.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/GlobalVar.class" />
@@ -37,12 +187,8 @@
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/thoughtbot/expandablerecyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/thoughtbot/expandablerecyclerview/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/thoughtbot/expandablerecyclerview/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/com/thoughtbot/expandablerecyclerview/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$integer.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$layout.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$layout.class" />
@@ -50,9 +196,7 @@
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$style.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$style.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$styleable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/classes/debug/it/gcacace/signaturepad/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/design/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/GlobalVar.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/GlobalVar.class" />
@@ -61,18 +205,17 @@
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/thoughtbot/expandablerecyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/thoughtbot/expandablerecyclerview/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/thoughtbot/expandablerecyclerview/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/com/thoughtbot/expandablerecyclerview/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$integer.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$layout.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$layout.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$string.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$string.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$style.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$style.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$styleable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental-verifier/debug/it/gcacace/signaturepad/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
@@ -82,54 +225,60 @@
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/BLPmCLT_GSB+SkcThA0EF1WCAO8=" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/BLPmCLT_GSB+SkcThA0EF1WCAO8=" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/slice_2/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/slice_6/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/pre-dexed/debug/classes_5e5df2ce9e371f62dcd193ba6928098d58c314b5.jar" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/pre-dexed/debug/classes_5e5df2ce9e371f62dcd193ba6928098d58c314b5.jar" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/pre-dexed/debug/debug_d2dcbc6e877d622564c08280e46d15e0a556b623.jar" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/pre-dexed/debug/debug_d2dcbc6e877d622564c08280e46d15e0a556b623.jar" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/layout_ky_duyet.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/layout_ky_duyet.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/activity_login.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/activity_login.xml" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/layout_phieu_duyet.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/layout_phieu_duyet.xml" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/luongdatafragment.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/luongdatafragment.xml" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/send_fragment.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/layout/send_fragment.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/merged/debug/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/res/resources-debug.ap_" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/dep/dependencies.apk" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_7.apk" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/symbols/debug/R.txt" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/AppSignature.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/AppSignature.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/DrawableImageView.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/DrawableImageView.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/GlobalVar.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/GlobalVar.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/MainActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/MainActivity.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$1.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$1.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$2.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$2.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment$1.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment$1.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/editDoc/EditDocumentActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/editDoc/EditDocumentActivity.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/views/SignaturePad.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/github/gcacace/signaturepad/views/SignaturePad.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/thoughtbot/expandablerecyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/thoughtbot/expandablerecyclerview/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/thoughtbot/expandablerecyclerview/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/thoughtbot/expandablerecyclerview/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$integer.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$layout.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$layout.class" />
@@ -137,53 +286,69 @@
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$style.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$style.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$styleable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/it/gcacace/signaturepad/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/AppSignature.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/AppSignature.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/DrawOnBitmapActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/DrawableImageView.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/DrawableImageView.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/GlobalVar.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/GlobalVar.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/MainActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/github/gcacace/signaturepad/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/editDoc/EditDocumentActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/editDoc/EditDocumentActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/thoughtbot/expandablerecyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/thoughtbot/expandablerecyclerview/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/thoughtbot/expandablerecyclerview/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/thoughtbot/expandablerecyclerview/R$id.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/design/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/design/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$1.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$1.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$2.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment$2.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment$1.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment$1.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/views/SignaturePad.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/github/gcacace/signaturepad/views/SignaturePad.class" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$drawable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$id.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$id.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$integer.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$layout.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$layout.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$string.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$string.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$style.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$style.class" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$styleable.class" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/it/gcacace/signaturepad/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk" afterPath="$PROJECT_DIR$/SignaturePad-Example/build/outputs/apk/SignaturePad-Example-debug.apk" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.java" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.java" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.java" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_ky_duyet.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_ky_duyet.xml" />
+      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml" />
       <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml" />
-      <change beforePath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/send_fragment.xml" afterPath="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/send_fragment.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/buildConfig/androidTest/debug/com/github/gcacace/signaturepad/test/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/dataBinding/release/android/databinding/layouts/DataBindingInfo.java" afterPath="$PROJECT_DIR$/signature-pad/build/generated/source/dataBinding/release/android/databinding/layouts/DataBindingInfo.java" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/r/androidTest/debug/android/support/v4/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/r/androidTest/debug/com/android/databinding/library/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/r/androidTest/debug/com/android/databinding/library/baseAdapters/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/r/androidTest/debug/com/github/gcacace/signaturepad/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/generated/source/r/androidTest/debug/com/github/gcacace/signaturepad/test/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/blame/res/debug/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/blame/res/release/multi/values.json" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/blame/res/release/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/bundles/debug/res/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/bundles/default/data-binding/bin-files/com.github.gcacace.signaturepad-com.github.gcacace.signaturepad-setter_store.bin" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/bundles/default/data-binding/bin-files/com.github.gcacace.signaturepad-com.github.gcacace.signaturepad-setter_store.bin" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/data-binding-compiler/release/dependent-lib-artifacts/com.android.databinding.library.baseAdapters-com.android.databinding.library.baseAdapters-br.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/data-binding-compiler/release/dependent-lib-artifacts/com.android.databinding.library.baseAdapters-com.android.databinding.library.baseAdapters-layoutinfo.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/data-binding-compiler/release/dependent-lib-artifacts/com.android.databinding.library.baseAdapters-com.android.databinding.library.baseAdapters-setter_store.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/data-binding-layout-out/androidTest/debug/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/signature-pad/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/outputs/aar/signature-pad-debug.aar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature-pad/build/outputs/aar/signature-pad-release.aar" afterPath="$PROJECT_DIR$/signature-pad/build/outputs/aar/signature-pad-release.aar" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,57 +371,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RequestActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java">
+      <file leaf-file-name="SocketEventConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketEventConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LuongDataFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java">
+      <file leaf-file-name="AppSignature.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/AppSignature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="51">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="luongdatafragment.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="86">
+              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="340">
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="PhieuDuyetFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KyDuyetFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java">
+      <file leaf-file-name="DrawableImageView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawableImageView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            <state relative-caret-position="116">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -278,6 +450,7 @@
       <find>openRenderer</find>
       <find>pheduyet</find>
       <find>mImageView</find>
+      <find>initialize</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -3413,29 +3586,33 @@
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawOnBitmapActivity.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawableImageView.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/bg_linnerlayout.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/bg_img_ky.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_ky_duyet.xml" />
-        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java" />
-        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/send_fragment.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.java" />
-        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml" />
-        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java" />
         <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/build.gradle" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketIOService.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppContext.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppSocketListener.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java" />
+        <option value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="24" />
+    <option name="x" value="1" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
   </component>
@@ -3486,6 +3663,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -3496,11 +3677,6 @@
             <path>
               <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
               <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
@@ -3521,52 +3697,16 @@
               <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="signaturepad" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="expandableRecyclerView" type="462c0819:PsiDirectoryNode" />
-              <item name="incomingRequest" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceSocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="signaturepad" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="expandableRecyclerView" type="462c0819:PsiDirectoryNode" />
-              <item name="incomingRequest" type="462c0819:PsiDirectoryNode" />
-              <item name="editDoc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="signaturepad" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="expandableRecyclerView" type="462c0819:PsiDirectoryNode" />
-              <item name="incomingRequest" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="signaturepad" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SignaturePad-Example" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3578,15 +3718,18 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-xxhdpi" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket" />
       <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable" />
       <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-xxhdpi" />
       <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-xhdpi" />
       <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-mdpi" />
-      <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-hdpi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.gcacace.signaturepad.ServiceSocket" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable-xxhdpi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -3754,7 +3897,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="24" width="1440" height="822" extended-state="0" />
+    <frame x="1" y="23" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3764,11 +3907,11 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16595136" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24896836" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0068775793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3776,9 +3919,9 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1829436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01650619" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01650619" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3803,13 +3946,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java</url>
-          <line>47</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java</url>
-          <line>98</line>
+          <line>109</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -3819,59 +3962,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/TabPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature-pad/src/main/java/com/github/gcacace/signaturepad/view/ViewTreeObserverCompat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature-pad/src/main/java/com/github/gcacace/signaturepad/utils/ControlTimedPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signature-pad/src/main/java/com/github/gcacace/signaturepad/utils/SvgPoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3893,7 +3987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3913,13 +4006,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/main_activity.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/values/strings.xml">
@@ -3934,13 +4027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/AppSignature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -3960,13 +4046,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="35" column="59" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="59" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/TabPagerAdapter.java">
@@ -3981,7 +4067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="321" column="21" lean-forward="false" selection-start-line="321" selection-start-column="21" selection-end-line="321" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3989,41 +4074,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="280" column="44" lean-forward="true" selection-start-line="280" selection-start-column="8" selection-end-line="280" selection-end-column="44" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/bg_linnerlayout.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/bg_img_ky.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/bg_img_ky.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/signature-pad/src/main/AndroidManifest.xml">
@@ -4049,7 +4122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4077,95 +4149,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawOnBitmapActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="325" column="20" lean-forward="false" selection-start-line="325" selection-start-column="10" selection-end-line="325" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawableImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_request.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_ky_duyet.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#330#331#0" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#627#628#0" expanded="false" />
-            <element signature="e#663#664#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_ky_duyet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="46" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/send_fragment.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/send_fragment.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/sendRequest/SendFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/incoming_fragment.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/incomingRequest/IncomingFragment.java">
@@ -4176,32 +4208,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="49" column="67" lean-forward="false" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signature-pad/src/main/java/com/github/gcacace/signaturepad/views/SignaturePad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-440">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="124" column="46" lean-forward="false" selection-start-line="124" selection-start-column="46" selection-end-line="124" selection-end-column="46" />
-          <folding>
-            <element signature="e#380#728#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/image.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
@@ -4216,44 +4231,181 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/drawable/image.png">
-      <provider selected="true" editor-type-id="images">
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/luongdatafragment.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawOnBitmapActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3232">
+          <caret line="325" column="20" lean-forward="false" selection-start-line="325" selection-start-column="10" selection-end-line="325" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/layout_phieu_duyet.xml">
       <provider editor-type-id="android-designer2">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding>
+            <element signature="e#380#728#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LuongDataFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="55" lean-forward="false" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="e#1057#1289#0" expanded="false" />
+            <element signature="e#1288#1289#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/RequestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signature-pad/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1263">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketIOService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/KyDuyetFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="148" column="13" lean-forward="false" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/AppSocketListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="159" column="5" lean-forward="false" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/DrawableImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/ServiceSocket/SocketEventConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/PhieuDuyetFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/AppSignature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/java/com/github/gcacace/signaturepad/expandableRecyclerView/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignaturePad-Example/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

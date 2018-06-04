@@ -19,6 +19,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,18 +27,27 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.MultiAutoCompleteTextView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.github.gcacace.signaturepad.GlobalVar;
+import com.github.gcacace.signaturepad.ServiceSocket.AppSocketListener;
+import com.github.gcacace.signaturepad.ServiceSocket.SocketEventConstants;
+import com.github.gcacace.signaturepad.ServiceSocket.SocketListener;
 import com.github.gcacace.signaturepad.views.SignaturePad;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
+import io.socket.client.Socket;
+import io.socket.emitter.Emitter;
 import it.gcacace.signaturepad.R;
 
-public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickListener {
+public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickListener ,SocketListener {
     TextView txtTrangthai;
     Button btnOTP;
     SignaturePad signaturePad;
@@ -95,8 +105,25 @@ public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickL
                            // txtTrangthai.setTextColor(KyDuyetFragment.this.getResources().getColor(R.color.red));
                             GlobalVar.getInstance().setTextYkien(multiAutoCompleteTextView.getText().toString());
                             GlobalVar.getInstance().setBitmap(signaturePad.getSignatureBitmap());
+                            GlobalVar.getInstance().setShowView6(true);
                             finish();
                             btnOTP.setVisibility(View.GONE);
+
+                            JSONObject jsonObject = new JSONObject();
+                            try {
+                                jsonObject.put("acustusername", "mobilenumbersent_cust");
+                                jsonObject.put("aloc_lat", 21.123456);
+                                jsonObject.put("aloc_long", 105.789);
+                                jsonObject.put("AWORKTYPEID", 2);
+                                jsonObject.put("AREQID", 1);
+                                jsonObject.put("AREQContent", "Điều ngay KienDT ra xếp gạch ngay !");
+                                jsonObject.put("strlistuseronline", "mobilenumbersent_wrk1,mobilenumbersent_wrk2,mobilenumbersent_wrk3,mobilenumbersent_wrk4,mobilenumbersent_wrk5");
+
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+
+                            AppSocketListener.getInstance().emit(SocketEventConstants.CUST_POST_REQUEST_TOSRV, jsonObject);
                         }
                     })
                     .setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {
@@ -117,5 +144,35 @@ public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickL
         OutputStream stream = new FileOutputStream(photo);
         newBitmap.compress(Bitmap.CompressFormat.JPEG, 80, stream);
         stream.close();
+    }
+
+    @Override
+    public void onSocketConnected() {
+        AppSocketListener.getInstance().addOnHandler(Socket.EVENT_CONNECT_ERROR, onConnectError);
+        AppSocketListener.getInstance().addOnHandler(Socket.EVENT_CONNECT_TIMEOUT, onConnectError);
+
+    }
+
+    private Emitter.Listener onConnectError = new Emitter.Listener() {
+        @Override
+        public void call(Object... args) {
+            Log.i("Failed","Failed to connect");
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    Toast.makeText(getApplicationContext(),
+                            "Failed to connect", Toast.LENGTH_LONG).show();
+                }
+            });
+        }
+    };
+    @Override
+    public void onSocketDisconnected() {
+
+    }
+
+    @Override
+    public void onNewMessageReceived(String username, String message) {
+
     }
 }
