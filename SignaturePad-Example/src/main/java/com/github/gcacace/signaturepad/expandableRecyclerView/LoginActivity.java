@@ -13,6 +13,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.github.gcacace.signaturepad.ServiceSocket.AppSocketListener;
+
 import it.gcacace.signaturepad.R;
 
 public class LoginActivity extends AppCompatActivity {
@@ -35,6 +37,7 @@ public class LoginActivity extends AppCompatActivity {
         if (view.getId() == R.id.btnLogin) {
             if (OTP)
             {
+                AppSocketListener.getInstance().initialize();
                 finish();
                 startActivity(new Intent(this, RequestActivity.class));
             }

@@ -1,182 +1,53 @@
 [
     {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_tint_edittext.xml"
-=======
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/color/design_error.xml"
     },
     {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_hint_foreground_material_light.xml"
-=======
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_secondary_text_material_dark.xml"
-=======
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_seek_thumb.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\color\\design_error.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_btn_colored_borderless_text_material.xml"
-=======
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_edittext.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_hint_foreground_material_dark.xml"
     },
@@ -199,25 +70,12 @@
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_primary_text_material_dark.xml"
-=======
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\6bb97f8ca695ebe35f47d6a264ac0136a7eea73a\\output\\res\\color\\design_error.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_btn_colored_text_material.xml"
     },
@@ -228,101 +86,5 @@
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/color/abc_primary_text_disable_only_material_light.xml"
-=======
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\6bb97f8ca695ebe35f47d6a264ac0136a7eea73a\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\color\\abc_search_url_text.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
     }
 ]

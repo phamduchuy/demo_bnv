@@ -19,6 +19,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Base64;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -38,6 +39,7 @@ import com.github.gcacace.signaturepad.views.SignaturePad;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -109,21 +111,22 @@ public class KyDuyetFragment  extends AppCompatActivity implements View.OnClickL
                             finish();
                             btnOTP.setVisibility(View.GONE);
 
+                            AppSocketListener.getInstance().setActiveSocketListener(KyDuyetFragment.this);
+                            ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+                            signaturePad.getSignatureBitmap().compress(Bitmap.CompressFormat.PNG, 100, byteArrayOutputStream);
+                            byte[] byteArray = byteArrayOutputStream .toByteArray();
+
+                            String encoded = Base64.encodeToString(byteArray, Base64.DEFAULT);
                             JSONObject jsonObject = new JSONObject();
                             try {
-                                jsonObject.put("acustusername", "mobilenumbersent_cust");
-                                jsonObject.put("aloc_lat", 21.123456);
-                                jsonObject.put("aloc_long", 105.789);
-                                jsonObject.put("AWORKTYPEID", 2);
-                                jsonObject.put("AREQID", 1);
-                                jsonObject.put("AREQContent", "Điều ngay KienDT ra xếp gạch ngay !");
-                                jsonObject.put("strlistuseronline", "mobilenumbersent_wrk1,mobilenumbersent_wrk2,mobilenumbersent_wrk3,mobilenumbersent_wrk4,mobilenumbersent_wrk5");
+                                jsonObject.put("imgdatasource", encoded);
+                                jsonObject.put("UserName", "Buoc5");
 
                             } catch (JSONException e) {
                                 e.printStackTrace();
                             }
 
-                            AppSocketListener.getInstance().emit(SocketEventConstants.CUST_POST_REQUEST_TOSRV, jsonObject);
+                            AppSocketListener.getInstance().emit("IMG_RCV_BASE64", jsonObject);
                         }
                     })
                     .setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {

@@ -1,9 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
-=======
-        "outputFile": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -14,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -52,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -91,212 +88,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 232
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 63,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 189,
-                    "endColumn": 70,
-                    "endOffset": 255
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 67,
-                    "endOffset": 323
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 328,
-                    "endLine": 9,
-                    "endColumn": 12,
-                    "endOffset": 505
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\6bb97f8ca695ebe35f47d6a264ac0136a7eea73a\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 232
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 63,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 189,
-                    "endColumn": 70,
-                    "endOffset": 255
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 67,
-                    "endOffset": 323
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 328,
-                    "endLine": 9,
-                    "endColumn": 12,
-                    "endOffset": 505
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,47 +1,14 @@
 [
     {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_edit.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_edit.png"
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_asset_expand.png",
         "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/generated/res/pngs/debug/drawable-xxhdpi/icon_asset_expand.png"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_asset_edit.png",
         "source": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/generated/res/pngs/debug/drawable-xxhdpi/icon_asset_edit.png"
-=======
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_expand.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_expand.png"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_expand.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_expand.png"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_expand.png",
-        "source": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_expand.png"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_edit.png",
-        "source": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_edit.png"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_asset_edit.png",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_asset_edit.png"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
     }
 ]

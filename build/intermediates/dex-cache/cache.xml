@@ -2,61 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-<<<<<<< HEAD
-        jar="/Users/macbook/Documents/GitHub/demo_bnv/signature-pad/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="baf2a5c0a19f66749ae1cd79d29c2b53193acedb">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/classes_5e5df2ce9e371f62dcd193ba6928098d58c314b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0_c79ee4251940988e6b9251cf307ba2276d4e664f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/okhttp-2.5.0_0df5009fab39a4c5d12dc10407ba5449f7821f35.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.2/31fb4bf50b62daadee5e94f39679812ad8a9ae00/socket.io-client-0.6.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/socket.io-client-0.6.2_c97bd4886c28e71f47dc72ce36a51daa93b2389a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/okio-1.6.0_fce5e70c27a6bd11800e06589ffcde6174723a2c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5212b7ecef35834a5be8a251ad7091f6082b027a">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93788e391e952e288fa4bad976af1bb3fd2f0805/classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
@@ -66,21 +11,13 @@
         <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ccea7f4ec70689f2e1bc1f1a50ba2859249c3932/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.6.2/939f90d47c800626d5b0a4e7f89f98b3dde61dc6/engine.io-client-0.6.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
-        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/pre-dexed/debug/engine.io-client-0.6.2_c50a52f21460aaaf4c2c44107fb3c1b550af0cda.jar" />
-=======
-        jar="D:\github\sign\demo_bnv\signature-pad\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="baf2a5c0a19f66749ae1cd79d29c2b53193acedb">
-        <dex dex="D:\github\sign\demo_bnv\SignaturePad-Example\build\intermediates\pre-dexed\debug\classes_a8bc9d4e1c278f890e119d963bfa2bb95a9aa834.jar" />
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
+        sha1="e818407ab606be0ad92549f247c7b2925b2072a7">
+        <dex dex="/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93788e391e952e288fa4bad976af1bb3fd2f0805/classes.dex" />
     </item>
 
 </items>

@@ -25,6 +25,15 @@
             android:name="com.github.gcacace.signaturepad.DrawOnBitmapActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.github.gcacace.signaturepad.ServiceSocket.SocketIOService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.github.gcacace.signaturepad.ServiceSocket.SocketIOService" />
+            </intent-filter>
+        </service>
+
         <activity android:name="com.github.gcacace.signaturepad.expandableRecyclerView.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

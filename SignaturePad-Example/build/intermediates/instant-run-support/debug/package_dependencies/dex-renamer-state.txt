@@ -1,4 +1,4 @@
-#Mon Jun 04 21:56:29 ICT 2018
+#Mon Jun 04 22:23:03 ICT 2018
 file.9=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b4788f0af96e59ad3a15999f6d1124ffd155c41/classes.dex
 base.10=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_0df5009fab39a4c5d12dc10407ba5449f7821f35
 file.8=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b043619ad4c6855b3f02136e243cc47a4160c862/classes.dex

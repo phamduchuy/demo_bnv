@@ -1,19 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/animator-v21/design_appbar_state_list_animator.xml"
-=======
-        "merged": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "D:\\Users\\macbook\\.android\\build-cache\\6bb97f8ca695ebe35f47d6a264ac0136a7eea73a\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\a555055f4b2256be0fd6a289c3025fee2c78ec07\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
     }
 ]

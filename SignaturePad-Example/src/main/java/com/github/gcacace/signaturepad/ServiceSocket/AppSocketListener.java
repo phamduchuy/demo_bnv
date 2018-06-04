@@ -13,6 +13,8 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.github.gcacace.signaturepad.AppSignature;
+
 import io.socket.client.Ack;
 import io.socket.emitter.Emitter;
 
@@ -63,19 +65,19 @@ public class AppSocketListener implements SocketListener
 
 
     public void initialize(){
-        Intent intent = new Intent(AppContext.getAppContext(), SocketIOService.class);
+        Intent intent = new Intent(AppSignature.getAppContext(), SocketIOService.class);
 
-        AppContext.getAppContext().startService(intent);
+        AppSignature.getAppContext().startService(intent);
 
 
-        AppContext.getAppContext().bindService(intent, serviceConnection, Context.BIND_AUTO_CREATE);
-        LocalBroadcastManager.getInstance(AppContext.getAppContext()).
+        AppSignature.getAppContext().bindService(intent, serviceConnection, Context.BIND_AUTO_CREATE);
+        LocalBroadcastManager.getInstance(AppSignature.getAppContext()).
                 registerReceiver(socketConnectionReceiver, new IntentFilter(SocketEventConstants.
                         socketConnection));
-        LocalBroadcastManager.getInstance(AppContext.getAppContext()).
+        LocalBroadcastManager.getInstance(AppSignature.getAppContext()).
                 registerReceiver(connectionFailureReceiver, new IntentFilter(SocketEventConstants.
                         connectionFailure));
-        LocalBroadcastManager.getInstance(AppContext.getAppContext()).
+        LocalBroadcastManager.getInstance(AppSignature.getAppContext()).
                 registerReceiver(newMessageReceiver, new IntentFilter(SocketEventConstants.
                         newMessage));
     }
@@ -98,7 +100,7 @@ public class AppSocketListener implements SocketListener
         @Override
         public void onReceive(Context context, Intent intent) {
             Toast toast = Toast.
-                    makeText(AppContext.getAppContext(), "Please check your network connection",
+                    makeText(AppSignature.getAppContext(), "Please check your network connection",
                             Toast.LENGTH_SHORT);
             toast.show();
         }
@@ -115,10 +117,10 @@ public class AppSocketListener implements SocketListener
 
     public void destroy(){
         socketServiceInterface.setServiceBinded(false);
-        AppContext.getAppContext().unbindService(serviceConnection);
-        LocalBroadcastManager.getInstance(AppContext.getAppContext()).
+        AppSignature.getAppContext().unbindService(serviceConnection);
+        LocalBroadcastManager.getInstance(AppSignature.getAppContext()).
                 unregisterReceiver(socketConnectionReceiver);
-        LocalBroadcastManager.getInstance(AppContext.getAppContext()).
+        LocalBroadcastManager.getInstance(AppSignature.getAppContext()).
                 unregisterReceiver(newMessageReceiver);
     }
 

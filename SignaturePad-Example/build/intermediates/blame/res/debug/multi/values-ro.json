@@ -1,9 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
-=======
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
         "map": [
             {
                 "to": {
@@ -14,7 +11,7 @@
                     "endOffset": 171
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +30,7 @@
                     "endOffset": 279
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -52,7 +49,7 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +68,7 @@
                     "endOffset": 506
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -90,7 +87,7 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -109,7 +106,7 @@
                     "endOffset": 707
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -128,7 +125,7 @@
                     "endOffset": 819
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -147,7 +144,7 @@
                     "endOffset": 940
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -166,7 +163,7 @@
                     "endOffset": 1025
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -185,7 +182,7 @@
                     "endOffset": 1107
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -204,7 +201,7 @@
                     "endOffset": 1190
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -223,7 +220,7 @@
                     "endOffset": 1302
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -242,7 +239,7 @@
                     "endOffset": 1415
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -261,7 +258,7 @@
                     "endOffset": 1515
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -280,7 +277,7 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -299,7 +296,7 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -318,7 +315,7 @@
                     "endOffset": 1840
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -337,7 +334,7 @@
                     "endOffset": 1961
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -356,7 +353,7 @@
                     "endOffset": 2064
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -375,7 +372,7 @@
                     "endOffset": 2147
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -394,816 +391,7 @@
                     "endOffset": 2248
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2152,
-                        "endColumn": 100,
-                        "endOffset": 2248
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 120,
-                    "endOffset": 171
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 120,
-                        "endOffset": 171
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 176,
-                    "endColumn": 107,
-                    "endOffset": 279
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 176,
-                        "endColumn": 107,
-                        "endOffset": 279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 284,
-                    "endColumn": 122,
-                    "endOffset": 402
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 122,
-                        "endOffset": 402
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 407,
-                    "endColumn": 103,
-                    "endOffset": 506
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 407,
-                        "endColumn": 103,
-                        "endOffset": 506
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 511,
-                    "endColumn": 112,
-                    "endOffset": 619
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 112,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 624,
-                    "endColumn": 87,
-                    "endOffset": 707
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 87,
-                        "endOffset": 707
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 712,
-                    "endColumn": 111,
-                    "endOffset": 819
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 712,
-                        "endColumn": 111,
-                        "endOffset": 819
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 824,
-                    "endColumn": 120,
-                    "endOffset": 940
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 824,
-                        "endColumn": 120,
-                        "endOffset": 940
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 945,
-                    "endColumn": 84,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 945,
-                        "endColumn": 84,
-                        "endOffset": 1025
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 81,
-                    "endOffset": 1107
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1030,
-                        "endColumn": 81,
-                        "endOffset": 1107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1112,
-                    "endColumn": 82,
-                    "endOffset": 1190
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1112,
-                        "endColumn": 82,
-                        "endOffset": 1190
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1195,
-                    "endColumn": 111,
-                    "endOffset": 1302
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1195,
-                        "endColumn": 111,
-                        "endOffset": 1302
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1307,
-                    "endColumn": 112,
-                    "endOffset": 1415
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1307,
-                        "endColumn": 112,
-                        "endOffset": 1415
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1420,
-                    "endColumn": 99,
-                    "endOffset": 1515
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1420,
-                        "endColumn": 99,
-                        "endOffset": 1515
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1520,
-                    "endColumn": 113,
-                    "endOffset": 1629
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1520,
-                        "endColumn": 113,
-                        "endOffset": 1629
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1634,
-                    "endColumn": 104,
-                    "endOffset": 1734
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1634,
-                        "endColumn": 104,
-                        "endOffset": 1734
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1739,
-                    "endColumn": 105,
-                    "endOffset": 1840
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1739,
-                        "endColumn": 105,
-                        "endOffset": 1840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1845,
-                    "endColumn": 120,
-                    "endOffset": 1961
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1845,
-                        "endColumn": 120,
-                        "endOffset": 1961
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 102,
-                    "endOffset": 2064
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1966,
-                        "endColumn": 102,
-                        "endOffset": 2064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2069,
-                    "endColumn": 82,
-                    "endOffset": 2147
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2069,
-                        "endColumn": 82,
-                        "endOffset": 2147
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2152,
-                    "endColumn": 100,
-                    "endOffset": 2248
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2152,
-                        "endColumn": 100,
-                        "endOffset": 2248
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 120,
-                    "endOffset": 171
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 120,
-                        "endOffset": 171
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 176,
-                    "endColumn": 107,
-                    "endOffset": 279
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 176,
-                        "endColumn": 107,
-                        "endOffset": 279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 284,
-                    "endColumn": 122,
-                    "endOffset": 402
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 122,
-                        "endOffset": 402
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 407,
-                    "endColumn": 103,
-                    "endOffset": 506
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 407,
-                        "endColumn": 103,
-                        "endOffset": 506
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 511,
-                    "endColumn": 112,
-                    "endOffset": 619
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 112,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 624,
-                    "endColumn": 87,
-                    "endOffset": 707
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 87,
-                        "endOffset": 707
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 712,
-                    "endColumn": 111,
-                    "endOffset": 819
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 712,
-                        "endColumn": 111,
-                        "endOffset": 819
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 824,
-                    "endColumn": 120,
-                    "endOffset": 940
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 824,
-                        "endColumn": 120,
-                        "endOffset": 940
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 945,
-                    "endColumn": 84,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 945,
-                        "endColumn": 84,
-                        "endOffset": 1025
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 81,
-                    "endOffset": 1107
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1030,
-                        "endColumn": 81,
-                        "endOffset": 1107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1112,
-                    "endColumn": 82,
-                    "endOffset": 1190
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1112,
-                        "endColumn": 82,
-                        "endOffset": 1190
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1195,
-                    "endColumn": 111,
-                    "endOffset": 1302
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1195,
-                        "endColumn": 111,
-                        "endOffset": 1302
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1307,
-                    "endColumn": 112,
-                    "endOffset": 1415
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1307,
-                        "endColumn": 112,
-                        "endOffset": 1415
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1420,
-                    "endColumn": 99,
-                    "endOffset": 1515
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1420,
-                        "endColumn": 99,
-                        "endOffset": 1515
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1520,
-                    "endColumn": 113,
-                    "endOffset": 1629
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1520,
-                        "endColumn": 113,
-                        "endOffset": 1629
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1634,
-                    "endColumn": 104,
-                    "endOffset": 1734
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1634,
-                        "endColumn": 104,
-                        "endOffset": 1734
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1739,
-                    "endColumn": 105,
-                    "endOffset": 1840
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1739,
-                        "endColumn": 105,
-                        "endOffset": 1840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1845,
-                    "endColumn": 120,
-                    "endOffset": 1961
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1845,
-                        "endColumn": 120,
-                        "endOffset": 1961
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 102,
-                    "endOffset": 2064
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1966,
-                        "endColumn": 102,
-                        "endOffset": 2064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2069,
-                    "endColumn": 82,
-                    "endOffset": 2147
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2069,
-                        "endColumn": 82,
-                        "endOffset": 2147
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2152,
-                    "endColumn": 100,
-                    "endOffset": 2248
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-ro\\values-ro.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-ro/values-ro.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

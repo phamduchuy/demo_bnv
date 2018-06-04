@@ -1,9 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
-=======
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\D:\\github\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
         "map": [
             {
                 "to": {
@@ -14,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +30,7 @@
                     "endOffset": 180
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -52,7 +49,7 @@
                     "endOffset": 251
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +68,7 @@
                     "endOffset": 321
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -90,7 +87,7 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -109,7 +106,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -128,7 +125,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -147,7 +144,7 @@
                     "endOffset": 631
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -166,360 +163,7 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 636,
-                        "endColumn": 115,
-                        "endOffset": 747
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\macbook\\Documents\\GitHub\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
->>>>>>> 782b80b27f0a6ecfe6985c72891912b15906f34d
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 58,
-                        "endOffset": 109
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 114,
-                    "endColumn": 70,
-                    "endOffset": 180
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 114,
-                        "endColumn": 70,
-                        "endOffset": 180
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 185,
-                    "endColumn": 70,
-                    "endOffset": 251
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 185,
-                        "endColumn": 70,
-                        "endOffset": 251
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 256,
-                    "endColumn": 69,
-                    "endOffset": 321
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 256,
-                        "endColumn": 69,
-                        "endOffset": 321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 326,
-                    "endColumn": 69,
-                    "endOffset": 391
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 69,
-                        "endOffset": 391
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 396,
-                    "endColumn": 67,
-                    "endOffset": 459
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 396,
-                        "endColumn": 67,
-                        "endOffset": 459
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 464,
-                    "endColumn": 67,
-                    "endOffset": 527
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 464,
-                        "endColumn": 67,
-                        "endOffset": 527
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 532,
-                    "endColumn": 103,
-                    "endOffset": 631
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 532,
-                        "endColumn": 103,
-                        "endOffset": 631
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 636,
-                    "endColumn": 115,
-                    "endOffset": 747
-                },
-                "from": {
-                    "file": "D:\\Users\\macbook\\.android\\build-cache\\fdb91327445143bd35c2907208a92eb6c59dab5c\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 636,
-                        "endColumn": 115,
-                        "endOffset": 747
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\github\\sign\\demo_bnv\\SignaturePad-Example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 58,
-                        "endOffset": 109
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 114,
-                    "endColumn": 70,
-                    "endOffset": 180
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 114,
-                        "endColumn": 70,
-                        "endOffset": 180
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 185,
-                    "endColumn": 70,
-                    "endOffset": 251
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 185,
-                        "endColumn": 70,
-                        "endOffset": 251
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 256,
-                    "endColumn": 69,
-                    "endOffset": 321
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 256,
-                        "endColumn": 69,
-                        "endOffset": 321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 326,
-                    "endColumn": 69,
-                    "endOffset": 391
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 69,
-                        "endOffset": 391
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 396,
-                    "endColumn": 67,
-                    "endOffset": 459
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 396,
-                        "endColumn": 67,
-                        "endOffset": 459
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 464,
-                    "endColumn": 67,
-                    "endOffset": 527
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 464,
-                        "endColumn": 67,
-                        "endOffset": 527
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 532,
-                    "endColumn": 103,
-                    "endOffset": 631
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 532,
-                        "endColumn": 103,
-                        "endOffset": 631
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 636,
-                    "endColumn": 115,
-                    "endOffset": 747
-                },
-                "from": {
-                    "file": "C:\\Users\\ducqu\\.android\\build-cache\\bd54116a93aec486a055d380b13a3a19d59027fa\\output\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/values-large-v4/values-large-v4.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
