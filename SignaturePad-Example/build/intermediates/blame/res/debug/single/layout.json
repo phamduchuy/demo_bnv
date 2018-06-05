@@ -4,12 +4,12 @@
         "source": "/Users/macbook/.android/build-cache/6bb97f8ca695ebe35f47d6a264ac0136a7eea73a/output/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/macbook/.android/build-cache/fdb91327445143bd35c2907208a92eb6c59dab5c/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",

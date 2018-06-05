@@ -1,4 +1,4 @@
-#Mon Jun 04 22:57:51 ICT 2018
+#Tue Jun 05 07:17:00 ICT 2018
 base.0=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_93788e391e952e288fa4bad976af1bb3fd2f0805
 renamed.1=classes2.dex
 renamed.0=classes.dex

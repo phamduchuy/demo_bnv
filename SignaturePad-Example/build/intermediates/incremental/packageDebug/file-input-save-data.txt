@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jun 04 22:57:51 ICT 2018
+#Tue Jun 05 07:17:00 ICT 2018
 210.set=ANDROID_RESOURCE
 282.file=/Users/macbook/Documents/GitHub/demo_bnv/SignaturePad-Example/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
 14.set=ANDROID_RESOURCE

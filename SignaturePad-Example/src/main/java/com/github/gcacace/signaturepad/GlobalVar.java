@@ -31,6 +31,15 @@ public class GlobalVar {
     }
 
     private String textYkien ="";
+    private String textYkien5 ="";
+
+    public String getTextYkien5() {
+        return textYkien5;
+    }
+
+    public void setTextYkien5(String textYkien5) {
+        this.textYkien5 = textYkien5;
+    }
 
     public String getTextYkien() {
         return textYkien;

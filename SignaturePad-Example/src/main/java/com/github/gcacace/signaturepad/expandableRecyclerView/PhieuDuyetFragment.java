@@ -66,7 +66,7 @@ public class PhieuDuyetFragment  extends Fragment implements View.OnClickListene
         {
             imgChuKy6.setImageBitmap(GlobalVar.getInstance().getBitmap5());
             imgChuKy6.setVisibility(View.VISIBLE);
-            txtYkien6.setText(GlobalVar.getInstance().getTextYkien());
+            txtYkien6.setText(GlobalVar.getInstance().getTextYkien5());
             txtYkien6.setVisibility(View.VISIBLE);
             btnKy6.setVisibility(View.GONE);
         }
